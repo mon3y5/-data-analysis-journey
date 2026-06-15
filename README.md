@@ -15,7 +15,7 @@ Big Data (5 V's), EDA, Data Pre-processing, Analytics Types
 AI concepts: Computer Vision, NLP, RL, GANs, SQL & BI Tools intro
 
 ## Week 1 End
-So far, I've covered Big Data concepts, EDA, data preprocessing, analytics types, and Machine Learning fundamentals including regression, classification, clustering, and different ML approaches. I've also learned key AI domains such as Computer Vision, NLP, Reinforcement Learning, GANs, along with introductions to SQL and BI tools.
+- So far, I've covered Big Data concepts, EDA, data preprocessing, analytics types, and Machine Learning fundamentals including regression, classification, clustering, and different ML approaches. I've also learned key AI domains such as Computer Vision, NLP, Reinforcement Learning, GANs, along with introductions to SQL and BI tools.
 
 ## June 15, 2026
 Coding concecpts: Python, Keywords, Variables and basic intro of Jupyter Notebook
