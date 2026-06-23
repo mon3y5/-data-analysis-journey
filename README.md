@@ -17,5 +17,6 @@
 ## Week 1 End
 - So far, I've covered Big Data concepts, EDA, data preprocessing, analytics types, and Machine Learning fundamentals including regression, classification, clustering, and different ML approaches. I've also learned key AI domains such as Computer Vision, NLP, Reinforcement Learning, GANs, along with introductions to SQL and BI tools.
 
-## June 15, 2026
-- Coding concecpts: Python, Keywords, Variables and basic intro of Jupyter Notebook
+## Week 2 End
+- Here's a GitHub README-style description based on all four notebooks:
+I've learned the foundational building blocks of Python through a series of hands-on Jupyter Notebook sessions. Starting from the very basics — Jupyter shortcuts, Markdown formatting, Python keywords, identifiers, and variables — I progressively built my understanding of core data types like int, float, str, bool, and complex. I explored string indexing and slicing in depth, including forward, backward, and step-based slicing, and practiced a wide range of built-in string methods such as `upper()`, `replace()`, `strip()`, `split()`, `join()`, `find()`, and more. Moving forward, I studied type casting — both automatic and forced — understanding how Python converts between data types and the rules that govern those conversions. Finally, I covered all major categories of Python operators: arithmetic, comparison, assignment, and logical, applying them through practical examples and expressions. This journey represents my early but solid foundation in Python programming, with a focus on learning by doing.
