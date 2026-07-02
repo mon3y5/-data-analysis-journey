@@ -20,3 +20,8 @@
 ## Week 2 End
 - Here's a GitHub README-style description based on all four notebooks:
 I've learned the foundational building blocks of Python through a series of hands-on Jupyter Notebook sessions. Starting from the very basics — Jupyter shortcuts, Markdown formatting, Python keywords, identifiers, and variables — I progressively built my understanding of core data types like int, float, str, bool, and complex. I explored string indexing and slicing in depth, including forward, backward, and step-based slicing, and practiced a wide range of built-in string methods such as `upper()`, `replace()`, `strip()`, `split()`, `join()`, `find()`, and more. Moving forward, I studied type casting — both automatic and forced — understanding how Python converts between data types and the rules that govern those conversions. Finally, I covered all major categories of Python operators: arithmetic, comparison, assignment, and logical, applying them through practical examples and expressions. This journey represents my early but solid foundation in Python programming, with a focus on learning by doing.
+
+## Week 3 End
+- A beginner-to-intermediate Python course compiled from 10 class sessions (Jupyter notebooks), covering the language from basic syntax to functions and data structures.
+
+- Topics covered: Jupyter/Markdown basics, keywords & identifiers, core data types (int, float, str, bool, complex), string indexing/slicing/methods, type casting, arithmetic/comparison/logical operators, input() and conditional statements, lists, tuples, sets, dictionaries, while/for loops, the datetime module, and functions & lambda expressions.
